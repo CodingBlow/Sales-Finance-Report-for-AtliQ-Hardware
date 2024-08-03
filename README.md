@@ -13,32 +13,12 @@ These efforts enhanced data-driven decision-making and facilitated targeted stra
 ## Screenshots
 
 ### Market Performance vs. Target Analysis
-![Market Performance vs. Target Analysis]()
+![Market Performance vs. Target Analysis](https://github.com/user-attachments/assets/aa94e1d2-202c-4f4e-8599-58891fb4a734)
 This screenshot illustrates an analysis comparing actual market metrics against predefined targets, highlighting key performance indicators and deviations for effective strategic alignment.
 
 ### Profit & Loss (P&L) Analysis for Markets
-![Profit & Loss (P&L) Analysis for Markets])
+![Profit & Loss (P&L) Analysis for Markets](https://github.com/user-attachments/assets/b6c77a10-3ea8-4c2c-ba0a-6e276f17c4bb)
 This screenshot provides a concise summary of market-specific Profit & Loss data, focusing on key financial metrics crucial for strategic insights.
 
 ## Usage
 Feel free to explore the code and adapt it to your needs. Contributions and feedback are welcome!
-
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your_username/your_repository.git
-   ```
-2. Install necessary dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-## Contributing
-If you have any suggestions or improvements, please fork the repository and create a pull request. You can also open an issue for discussion.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to customize the README further with additional sections or details specific to your project and preferences.

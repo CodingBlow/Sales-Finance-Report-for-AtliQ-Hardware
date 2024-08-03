@@ -13,11 +13,11 @@ These efforts enhanced data-driven decision-making and facilitated targeted stra
 ## Screenshots
 
 ### Market Performance vs. Target Analysis
-![Market Performance vs. Target Analysis](https://github.com/user-attachments/assets/aa94e1d2-202c-4f4e-8599-58891fb4a734)
+![Market Performance vs. Target Analysis](https://github.com/user-attachments/assets/b6c77a10-3ea8-4c2c-ba0a-6e276f17c4bb)
 This screenshot illustrates an analysis comparing actual market metrics against predefined targets, highlighting key performance indicators and deviations for effective strategic alignment.
 
 ### Profit & Loss (P&L) Analysis for Markets
-![Profit & Loss (P&L) Analysis for Markets](https://github.com/user-attachments/assets/b6c77a10-3ea8-4c2c-ba0a-6e276f17c4bb)
+![Profit & Loss (P&L) Analysis for Markets](https://github.com/user-attachments/assets/aa94e1d2-202c-4f4e-8599-58891fb4a734)
 This screenshot provides a concise summary of market-specific Profit & Loss data, focusing on key financial metrics crucial for strategic insights.
 
 ## Usage
